@@ -1,4 +1,4 @@
-x= " Successfully passed Day7 "
+x= " Successfully passed Day8 "
 """returns the string without whitespace
 from the beginning or the end
 """
