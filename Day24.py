@@ -14,7 +14,7 @@ x=dict(challenge="100DaysOfCode",current_day="Day24",Year=2019)
 print(x)
 #make nested dictionaries of three dictionaries
 language1={
-	"name":"Pyhton",
+	"name":"Python",
 	"developed_by":"Google",
 	"developed_year":1991
 }
