@@ -1,3 +1,4 @@
+#task1 for week6
 #a recursive function that calculates the power of a number
 def power(base,exp): 
     if(exp==1):
