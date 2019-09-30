@@ -1,6 +1,6 @@
 """
 create a function that prints a greeting 
-and execute it on the p1 object
+and execute it on the day42 object
 """
 class Person:
 	def __init__(self, name, age):
