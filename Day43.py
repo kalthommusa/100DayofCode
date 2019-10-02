@@ -14,8 +14,10 @@ class Person:
 create a child class named Student
 and add the __init__() function to the child Student class
 and keep the inheritance of the Person parent class
+so now we are ready to add functionality in the __init__() function
 """
 class Student(Person):
+	#pass
     def __init__(self, fname, lastname):
     	Person.__init__(self, fname, lastname)
 #creat object for class Student and execute the fullname function
